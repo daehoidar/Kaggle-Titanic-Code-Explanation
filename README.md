@@ -52,7 +52,6 @@ import missingno as msno
 
 
 ```python
-#ignore warnings
 import warnings
 warnings.filterwarnings('ignore')
 ```
