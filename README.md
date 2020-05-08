@@ -1,4 +1,4 @@
-# Kaggle-Titanic-Code-explainion<br/>
+# Kaggle-Titanic-Code-Explanation<br/>
 ##### 이유한님 영상 참고했습니다.
 <br/>
 
