@@ -1,5 +1,5 @@
 # Kaggle-Titanic-Code-explainion<br/>
-
+##### 이유한님 영상 참고했습니다.
 <br/>
 
 ```python 
