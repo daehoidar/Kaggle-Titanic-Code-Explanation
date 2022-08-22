@@ -1,5 +1,7 @@
 # Kaggle-Titanic-Code-Explanation<br/>
 ##### 이유한님 영상 참고했습니다.<br/>
+이 글은 코드 설명에만 집중하기 때문에 코드 결과에 대한 자세한 분석은 다음 글을 참고<br/>
+https://github.com/ProWiseman/Titanic-Machine-Learning-from-Disaster<br/><br/>
 
 ```python 
 import numpy as np
